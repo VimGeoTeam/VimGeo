@@ -1,5 +1,4 @@
-# Feature Recombination Geo-Localization
-
+# VimGeo: Efficient Cross-View Geo-Localization with Vision Mamba Architecture
 [[Project](https://github.com/VimGeoTeam/VimGeo/)], [[Paper, IJCAI 2025]]
 
 **It has been accepted by IJCAI-25**
