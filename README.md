@@ -1,5 +1,5 @@
 # VimGeo: Efficient Cross-View Geo-Localization with Vision Mamba Architecture
-[[Project](https://github.com/VimGeoTeam/VimGeo/)], [[Paper, IJCAI 2025]]
+[[🔗 Project](https://github.com/VimGeoTeam/VimGeo)] [[📘 Paper (IJCAI 2025)](https://www.ijcai.org/proceedings/2025/133)]
 
 **It has been accepted by IJCAI-25**
 
@@ -159,7 +159,11 @@ Modify the following files by adding `-e` to the command line in each script:
 
 [FRGeo](https://github.com/zqwlearning/FRGeo-Code)，[Vim](https://github.com/hustvl/Vim)，[TransGeo](https://github.com/Jeff-Zilence/TransGeo2022)，[ConvNeXt](https://github.com/facebookresearch/ConvNeXt)，[CVUSA](http://mvrl.cs.uky.edu/datasets/cvusa/)，[VIGOR](https://github.com/Jeff-Zilence/VIGOR)，[OriCNN](https://github.com/Liumouliu/OriCNN)，[Deit](https://github.com/facebookresearch/deit)，[MoCo](https://github.com/facebookresearch/moco)
 
-Please contact us if you have any questions.
+# Contact
+
+If you have any questions, please feel free to reach out:  
+2112304047@mail2.gdut.edu.cn
+
 
 # Citation
 
