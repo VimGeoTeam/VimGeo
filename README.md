@@ -56,15 +56,11 @@ This is a PyTorch implementation of the “VimGeo: Efficient Cross-View Geo-Loca
      - Installation steps:
        ```bash
        # Example command, ensure system compatibility
-       pip install -e mamba-1p1p1
+       use the `mamba-1p1p1` files already included in our project folder to install
        ```
-
-3. **File Replacement**:
-   - Download or update the modified version in the Vim project:
-     - Specifically, replace the `mamba-1p1p1` as needed:
-     ```bash
-     # Assuming the target file is in a specific path within the Vim folder
-     cp path/to/modified/mamba-1p1p1 path/to/Vim/mamba-1p1p1/
+     - **Important**:  
+       The modifications to `mamba-1p1p1` are based on our model's source project.  
+       For details, please refer to https://github.com/hustvl/Vim/tree/main
      ```
 
 Please adjust the steps based on your system and project needs, ensuring all paths and version numbers are correct.
